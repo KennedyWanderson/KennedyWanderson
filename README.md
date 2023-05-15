@@ -2,12 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=F70000&center=true&width=700&height=103&lines=Hi!+I'm+Kennedy+Wanderson!;I'm+graduated+in+Systems+Analysis+and+Development!;I+am+21+years+old!;I'm+From+Brazil!;Welcome+!!)](https://git.io/typing-svg)
 
-<div style="display: inline-block" align="center"><br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=honnigam&theme=discord&column=7&no-bg=true"/>
-</p>
-</div>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=200&size=14&duration=10000&pause=1000&color=F7F7F7&width=600&lines=-+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+working+with+front-end+(html%2C+css%2C+js%2C+angular%2C+react%2C+react+native%2C+libs))](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=200&size=14&duration=15000&pause=500&color=F7F7F7&width=600&lines=-+%F0%9F%A7%A0+i'm+currently+perfecting+my+backend)](https://git.io/typing-svg)
