@@ -16,15 +16,15 @@
  
     
  <div>
-  <a href="https://github.com/honnigam">
+  <a href="https://github.com/KennedyWanderson">
   <img align="center" width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=honnigam&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img align="center" width="420px" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honnigam&layout=compact&langs_count=16&theme=transparent"/>
 </div>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="honnigam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="honnigam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="honnigam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="honnigam-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="KennedyWanderson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="KennedyWanderson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="KennedyWanderson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="KennedyWanderson-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
 
 ##
