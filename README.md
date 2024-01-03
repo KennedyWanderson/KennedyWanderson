@@ -5,7 +5,7 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/kennedy-wanderson)
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/in/_dev.kennedy/)
+)](https://www.instagram.com/_dev.kennedy/)
 
 ![Kennedy GitHub stats](https://github-readme-stats.vercel.app/api?username=KennedyWanderson&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyWanderson&layout=compact)
